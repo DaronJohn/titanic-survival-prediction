@@ -93,7 +93,7 @@ submission.to_csv('titanic_submission.csv', index=False)
 ## 📁 Output Files
 
 - `titanic_submission.csv` – for Kaggle or demo submission
-- `titanic_survival_prediction.ipynb notebook` – your Google Colab file with full code
+- `titanic_survival_prediction.ipynb` – Google Colab file with full code
 - `README.md` – this summary for documentation
 
 ---
